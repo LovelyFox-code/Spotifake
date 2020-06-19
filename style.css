@@ -1,0 +1,59 @@
+* {
+    transition: all 2s;
+}
+
+
+
+
+body {
+    color: #fdfffc;
+    background-color: #011627;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+   
+    
+
+}
+h1 {
+    width: 100%;
+    margin: auto;
+    text-align: center;
+    margin-top: 5%;
+    color: #fb5607;
+    font-family: 'Sriracha', cursive;
+}
+h2 {
+   color: #2ec4b6;
+}
+#buttons {
+    margin: 3%;
+    text-align: center;
+    
+}
+p {
+    margin-top: 15px;
+}
+
+input {
+    display: none;
+}
+
+label {
+    color: #fb5607;  
+}
+
+.file-upload {
+    background-color: #2ec4b6;
+    border-radius: 8px;
+    cursor: pointer;
+    display: flex;
+    width: 15%;
+    height: 50px;
+    justify-content: center;
+    margin: auto;
+    color: #fdfffc;
+
+}
+.file-upload p {
+    margin-top: 15px;
+}
